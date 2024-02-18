@@ -19,8 +19,7 @@ Open the terminal inside working directory. Activate conda environment and insta
 
 clone the repository
 
-> git clone ....
-
+> git clone https://github.com/MalikAbdulSalam/Image_Comparison/tree/main
 
 Run following command in terminal
 
