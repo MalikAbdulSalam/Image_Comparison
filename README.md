@@ -21,7 +21,9 @@ clone the repository
 
 > git clone https://github.com/MalikAbdulSalam/Image_Comparison/tree/main
 
-Run following command in terminal
+Run following commands in terminal
+
+> cd Image_Comparison
 
 > python quantify.py
 
