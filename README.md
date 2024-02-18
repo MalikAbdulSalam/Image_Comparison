@@ -1,5 +1,5 @@
 ### Image_Comparison
-Compare two images and find how much these images are similara and how much different they are.
+Compare two images and find their similarity and dissimilarity matrics.
 
 ![result](https://github.com/MalikAbdulSalam/Image_Comparison/assets/75979219/4f083e9c-6e0b-4e1f-989f-0dc264ae955b)
 
